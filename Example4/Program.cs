@@ -1,13 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Решим залачу - найти вес самой тяжелой гири.");
-
 Console.WriteLine("Пусть вес ваших гирь: 1, 2, 6, 8, 5");
 int a = 1;
 int b = 2;
 int c = 6;
 int d = 8;
 int e = 5;
-
 int max = a;
 if ( b > max) max = b;
 if ( c > max) max = c;
