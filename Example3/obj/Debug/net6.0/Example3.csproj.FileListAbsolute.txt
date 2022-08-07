@@ -1,0 +1,15 @@
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\bin\Debug\net6.0\Example3.exe
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\bin\Debug\net6.0\Example3.deps.json
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\bin\Debug\net6.0\Example3.runtimeconfig.json
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\bin\Debug\net6.0\Example3.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\bin\Debug\net6.0\Example3.pdb
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.csproj.AssemblyReference.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.AssemblyInfoInputs.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.AssemblyInfo.cs
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.csproj.CoreCompileInputs.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\refint\Example3.dll
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.pdb
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\Example3.genruntimeconfig.cache
+C:\Users\ЭкзаменСдам\Documents\GitHub\Lesson1_Progr_3_08_22\Lesson_1_ProgrC\Example3\obj\Debug\net6.0\ref\Example3.dll
