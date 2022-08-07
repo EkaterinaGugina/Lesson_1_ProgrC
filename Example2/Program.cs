@@ -10,12 +10,16 @@ Console.Write("B =");
 
 int numberB = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Их сумма равна:");
+Console.WriteLine($"Их сумма равна: {numberA + numberB}");
 
-Console.WriteLine(numberA + numberB);
+Console.WriteLine($"Их частное равно: {(double)numberA / numberB}");
 
-//double div = numberA / numberB;
+Console.WriteLine("А теперь мы придумаем любые два числа и проделаем те же операции суммы и деления с ними:");
 
-Console.Write("Их частное равно:");
+int number1 = new Random().Next(1,100);
 
-Console.WriteLine((double)numberA / numberB);
+int number2 = new Random().Next(1, 100);
+
+Console.WriteLine($"Их сумма равна: {number1 + number2}");
+
+Console.WriteLine($"Их частное равно: {(double)number1 / number2}");
