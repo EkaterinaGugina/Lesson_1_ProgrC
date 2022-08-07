@@ -12,10 +12,7 @@
 
         string UserName = Console.ReadLine();
 
-        Console.Write("Привет, ");
+        Console.Write($"Привет, {UserName}!");
 
-        Console.Write(UserName);
-
-        Console.Write("!");
     }
 }
